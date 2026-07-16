@@ -11,6 +11,9 @@ Desde infância sempre gostei de criar e desenvolver projetos e agora estou foca
 
 A grande maioria das minhas fontes provém de links do Youtube, de canais confiáveis e que já acompanho e já apliquei algumas metodologias e ferramentas apresentadas.
 
+Link para o NotebookLM (também disponível no Github):
+[GameDevAssist - Unity & Blender](https://notebooklm.google.com/notebook/49e7f144-ab4a-462e-afde-94b6ac9c8d6d?authuser=1)
+
 Algumas fontes:
 
 - [Giving Personality to Procedural Animations using Math](https://www.youtube.com/watch?v=KPoeNZZ6H4s) - Voltado principalmente a Animação e Matemática
